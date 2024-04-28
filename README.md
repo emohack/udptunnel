@@ -11,7 +11,10 @@ useage:
 
 支持:
 
-
     msf 非tcp
     cs
     直接反弹cmd或shell
+
+TODO:
+
+    udp重传、数据校验
