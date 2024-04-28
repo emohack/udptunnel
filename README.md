@@ -3,16 +3,17 @@
 
 useage:
 
-  在vps使用udptotcp
+    在vps使用udptotcp
   
-  在目标udp出网机器使用tcptoudp
+    在目标udp出网机器使用tcptoudp
 
 
 
 支持:
 
-  msf 非tcp
+
+    msf 非tcp
   
-  cs
+    cs
   
-  直接反弹cmd或shell
+    直接反弹cmd或shell
